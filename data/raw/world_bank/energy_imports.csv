@@ -1,0 +1,365 @@
+indicator_code,indicator_name,country,countryiso3code,year,value,unit,obs_status,decimal
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2023,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2022,-171.482371329992,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2021,-148.779300357276,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2020,-166.676304495143,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2019,-157.251588097578,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2018,-159.725700134966,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2017,-163.562735811068,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2016,-138.130060398239,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2015,-144.956335243698,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2014,-153.250707324208,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2013,-197.723542414887,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2012,-204.392627312405,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2011,-203.925954383789,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2010,-174.858852041957,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2009,-151.936703989788,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2008,-189.037429177801,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2007,-239.143526278874,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2006,-275.297889831981,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2005,-271.877260330466,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2004,-282.902083582046,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2003,-262.635909408767,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2002,-227.237770609243,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2001,-237.173477911049,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Arab Emirates,ARE,2000,-362.474926037534,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2023,-214.471540281044,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2022,-234.279345921201,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2021,-232.104772123918,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2020,-237.32858019566,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2019,-230.540248121,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2018,-221.13514781466,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2017,-213.039219172204,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2016,-206.230251314561,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2015,-197.386842232292,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2014,-185.555789490717,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2013,-164.691774053304,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2012,-149.195380388504,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2011,-141.942926034157,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2010,-146.708346775748,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2009,-128.476617177707,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2008,-123.534610231999,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2007,-127.764290888944,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2006,-123.806910241922,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2005,-131.07466643319,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2004,-125.872031210017,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2003,-125.288697474724,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2002,-130.62417241528,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2001,-126.513619589279,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Australia,AUS,2000,-117.602689924911,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2023,-13.6808969364254,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2022,-7.28721052757992,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2021,-3.84763107467013,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2020,-11.1677354621271,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2019,-4.05963612353002,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2018,-0.816754027000633,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2017,1.14058560979895,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2016,2.67300702990516,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2015,8.61387332542045,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2014,14.2246121049324,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2013,15.7799289306747,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2012,12.1359170291353,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2011,10.7016076437075,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2010,9.46056380844546,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2009,6.60229702686238,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2008,10.9734366775816,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2007,10.7554506884035,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2006,9.42487441775699,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2005,11.7093919059105,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2004,14.9871247447829,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2003,12.6504339560963,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2002,15.6930656209369,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2001,21.0669723351647,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Brazil,BRA,2000,23.6412025308101,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2023,-89.626081306096,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2022,-89.4880948333503,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2021,-87.5821362876153,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2020,-79.7039821719259,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2019,-75.7691761628351,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2018,-75.0034002036097,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2017,-71.7314725772424,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2016,-69.1173046088071,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2015,-68.422155970413,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2014,-66.6966752192918,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2013,-65.7048130619212,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2012,-59.7522549892993,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2011,-56.2929960098296,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2010,-55.1422384877185,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2009,-52.9111703731263,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2008,-52.7925580751696,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2007,-54.5900488468931,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2006,-50.4287607209759,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2005,-47.9771008445754,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2004,-50.3897944656745,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2003,-49.269133846543,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2002,-54.7624519827412,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2001,-51.790604506391,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Canada,CAN,2000,-50.5895192332625,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2023,23.9617588276826,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2022,20.6245589248584,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2021,21.638660726732,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2020,22.9745721923886,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2019,22.2209738878689,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2018,21.668746469651,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2017,20.4189899878205,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2016,19.1930740055994,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2015,16.7064227414127,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2014,17.5411749363193,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2013,17.3260320088109,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2012,16.5519076203457,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2011,14.7187375691953,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2010,13.5822901864238,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2009,12.0784803208113,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2008,8.6324519295838,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2007,7.94609861840451,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2006,6.95939640874444,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2005,5.60861584629628,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2004,5.80570745907935,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2003,2.81787719089625,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2002,1.55077393655025,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2001,0.0954125824372545,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",China,CHN,2000,2.45807505926914,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2023,70.4874265375658,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2022,71.7534093856193,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2021,65.4045618672755,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2020,65.3856005738018,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2019,69.9240006475155,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2018,66.2019306623099,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2017,66.6211966116221,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2016,66.3064728203049,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2015,64.435449668835,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2014,64.0352360163442,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2013,64.6341861183046,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2012,63.4091868018455,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2011,63.9626026669831,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2010,62.0536486295109,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2009,63.2780731769109,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2008,62.8465530476543,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2007,60.5578292354181,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2006,62.8343075975222,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2005,62.530571039464,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2004,62.8650670376201,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2003,62.269879079911,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2002,61.7994878938763,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2001,62.5050248519619,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Germany,DEU,2000,61.1039580456091,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2023,47.1279302986198,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2022,54.3201739791286,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2021,45.5715251781551,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2020,45.7909611073638,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2019,49.7065206256462,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2018,48.740565044734,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2017,50.6501252511912,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2016,49.1470621392941,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2015,47.5840193835437,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2014,47.8595723488972,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2013,49.7187350576705,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2012,49.9192127548672,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2011,50.7669129831527,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2010,50.3709944013574,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2009,52.4461795511117,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2008,52.300519537814,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2007,51.9702514233555,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2006,52.9914446924844,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2005,53.0679404506124,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2004,52.240225617517,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2003,51.9019306143333,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2002,51.9902296112764,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2001,51.6280590905334,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",France,FRA,2000,52.6597179220674,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2023,44.0436184547282,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2022,39.1791428970385,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2021,38.9215814062183,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2020,28.4994380663927,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2019,36.5356011003548,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2018,38.167224918993,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2017,38.0304654846969,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2016,37.9543303353766,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2015,40.2775678357428,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2014,49.7431680511659,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2013,50.6083317514932,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2012,46.0055909658311,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2011,39.4733611206654,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2010,30.8469247142087,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2009,28.8662790662214,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2008,28.1653974618043,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2007,21.8227003153631,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2006,22.4970192293226,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2005,14.1924448862014,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2004,4.77464566238933,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2003,-6.3366661046153,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2002,-12.6309939809473,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2001,-10.1110620082427,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United Kingdom,GBR,2000,-18.0990443841151,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2023,36.0871843474496,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2022,36.529412379469,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2021,35.0355799640062,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2020,37.481252772155,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2019,39.2996982985914,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2018,37.5843467719926,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2017,37.4713105330607,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2016,37.3874186548518,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2015,37.2827822095164,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2014,36.5423025911346,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2013,34.024000893281,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2012,32.8228389038316,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2011,31.1609590704357,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2010,30.2219214810602,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2009,29.3426479119283,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2008,28.4555744181546,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2007,27.0601259049498,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2006,26.0473139148163,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2005,24.7403711279846,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2004,23.0511620657529,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2003,22.3528918245213,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2002,22.1969266729062,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2001,21.6071184549194,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",India,IND,2000,21.8848024647478,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2023,87.2798853157027,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2022,89.9707516343257,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2021,88.6817259385197,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2020,89.5796033607393,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2019,90.5590328120186,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2018,91.4437393045403,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2017,93.0886712405363,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2016,93.813281550921,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2015,94.8396264266997,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2014,95.5684274026895,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2013,95.6729767272549,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2012,96.1222197111632,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2011,90.8195974217069,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2010,81.7425349206212,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2009,80.6163392901148,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2008,84.2147770328816,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2007,84.3107714036557,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2006,82.3651990491479,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2005,83.4649315674778,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2004,83.7746111126745,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2003,85.4788968124398,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2002,82.9888784175082,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2001,81.201679168534,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Japan,JPN,2000,82.8158357838335,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2023,84.6000911986392,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2022,85.4997854961215,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2021,84.9035262985875,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2020,84.5177411090491,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2019,88.1562990760159,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2018,89.4697678996836,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2017,88.471036646429,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2016,86.9376320928771,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2015,86.7300628107977,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2014,86.8693911585965,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2013,88.0801849923646,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2012,86.5466828850083,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2011,87.2305405207769,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2010,88.0806254621201,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2009,86.2663997166972,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2008,85.5983565577476,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2007,85.362445932308,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2006,86.8088364889406,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2005,83.4372030897407,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2004,87.7224900959861,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2003,87.342289824528,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2002,86.5041194029852,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2001,87.8727448945928,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)","Korea, Rep.",KOR,2000,88.8626965698761,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2023,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2022,-178.200448812201,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2021,-159.988472996237,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2020,-167.391802328969,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2019,-177.715405473393,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2018,-186.869965836857,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2017,-170.01284446789,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2016,-188.313378451395,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2015,-175.630386958295,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2014,-172.635167721495,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2013,-196.871813635467,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2012,-198.404746766711,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2011,-194.479146834173,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2010,-174.572051159403,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2009,-197.276525003426,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2008,-247.605329375852,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2007,-260.343119888032,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2006,-294.220788761899,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2005,-327.78579329972,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2004,-327.812890446441,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2003,-304.056898022563,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2002,-251.374590953102,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2001,-325.783228284745,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Saudi Arabia,SAU,2000,-348.213745162547,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2023,279.622693982082,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2022,258.425380474946,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2021,248.668236081717,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2020,264.429457913529,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2019,269.815306923958,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2018,273.793180423015,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2017,275.903826650794,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2016,274.260261369755,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2015,277.405757867332,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2014,275.189793160703,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2013,267.276576719405,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2012,288.091215185,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2011,318.370020905262,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2010,278.36489282559,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2009,256.852513663809,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2008,262.215986853303,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2007,271.316427060438,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2006,239.462723776914,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2005,236.275469317464,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2004,190.07586273938,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2003,189.537024588449,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2002,207.59861227614,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2001,208.664572934777,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",Singapore,SGP,2000,218.729473537416,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2025,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2024,,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2023,-9.00058575160831,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2022,-6.49503863234049,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2021,-4.18993101612738,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2020,-3.9655132596338,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2019,-0.898716368808055,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2018,3.59207211661354,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2017,8.10034813467893,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2016,12.2997773544084,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2015,11.738944672511,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2014,11.6957018790028,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2013,14.4330808261608,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2012,17.518452859975,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2011,20.6799127023379,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2010,24.0850218737468,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2009,25.9120016993863,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2008,27.9184127584533,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2007,30.5507287280746,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2006,31.7737943317032,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2005,31.7584924866635,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2004,30.9353501432903,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2003,29.2685841234767,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2002,27.8963061327111,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2001,28.9159685414131,,,0
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",United States,USA,2000,26.6791454298185,,,0

@@ -1,0 +1,365 @@
+indicator_code,indicator_name,country,countryiso3code,year,value,unit,obs_status,decimal
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2024,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2023,9139.5423044996,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2022,8303.27667116047,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2021,8500.46410586578,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2020,8105.43812949633,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2019,8736.63609388178,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2018,8363.00928463633,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2017,8378.97733971587,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2016,10191.6184664294,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2015,9973.9828745403,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2014,9398.40039523838,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2013,8654.48549263775,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2012,8466.34602792332,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2011,8498.19879197847,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2010,8849.86287819387,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2009,9445.23902000287,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2008,9425.05532774732,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2007,8929.1273242532,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2006,9239.04144595382,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2005,9535.07550578601,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2004,9441.12715739602,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2003,10102.2168560285,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2002,10866.2518811768,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2001,11703.2751045514,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Arab Emirates,ARE,2000,8956.94929901911,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2024,4750.59966458141,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2023,4927.64894813822,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2022,4942.16372202842,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2021,5006.44306522882,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2020,5159.03638381788,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2019,5231.57466031316,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2018,5086.37378454852,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2017,5162.45894302308,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2016,5216.98867184459,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2015,5318.66679266228,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2014,5407.4382264583,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2013,5533.38146350965,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2012,5533.72233837943,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2011,5698.65597309349,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2010,5762.9435664152,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2009,5843.93312947132,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2008,5951.19291532561,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2007,5853.76413229662,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2006,5775.11675226564,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2005,5624.49561264785,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2004,5652.13037917952,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2003,5615.57675632995,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2002,5480.23464289818,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2001,5486.39455905443,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Australia,AUS,2000,5681.22885913159,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2024,1511.62383133688,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2023,1481.22439922518,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2022,1432.72741132919,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2021,1430.3934661032,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2020,1379.24649914162,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2019,1415.83477031974,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2018,1403.40232453429,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2017,1431.95949698072,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2016,1414.8979311951,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2015,1482.02057858653,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2014,1522.42189026812,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2013,1487.45745839708,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2012,1433.15306444735,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2011,1390.00783643031,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2010,1384.36896688389,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2009,1262.10043812649,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2008,1317.23578420454,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2007,1259.91135986965,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2006,1202.05933940304,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2005,1173.71585743449,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2004,1157.16905577095,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2003,1107.9739157885,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2002,1103.40127916211,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2001,1086.99299318566,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Brazil,BRA,2000,1081.36193393467,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2024,7160.67104355006,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2023,7342.36758732052,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2022,7575.25861568829,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2021,7524.86361233157,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2020,7495.07932297849,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2019,8125.58121311618,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2018,8161.77967501099,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2017,8175.19037647623,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2016,7944.50789345873,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2015,7690.40816617685,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2014,7780.1475931021,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2013,7668.79466344868,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2012,7637.78487245197,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2011,7716.24822782698,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2010,7660.75452103288,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2009,7696.33407281264,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2008,8098.35289361915,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2007,8356.30636250042,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2006,8427.44174185883,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2005,8369.95929648006,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2004,8371.02231862308,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2003,8303.4318789013,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2002,7943.44588697183,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2001,8017.16666642228,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Canada,CAN,2000,8224.74786425172,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2024,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2023,2850.94152906511,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2022,2676.48200976111,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2021,2623.79959356116,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2020,2465.96954605987,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2019,2397.96868908473,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2018,2310.87757050979,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2017,2215.91139022057,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2016,2149.2047500244,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2015,2175.1544486832,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2014,2177.55011435267,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2013,2137.32572690907,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2012,2085.21872095825,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2011,2027.46525356855,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2010,1899.79996108685,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2009,1728.61645229501,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2008,1629.97754209383,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2007,1595.46606847798,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2006,1490.18647938836,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2005,1369.79197119649,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2004,1249.04415339994,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2003,1105.13742396493,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2002,976.159336791292,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2001,921.506436459842,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),China,CHN,2000,898.07500446721,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2024,2824.59006117053,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2023,2928.19658713867,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2022,3261.8564081995,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2021,3467.03057027911,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2020,3349.19931383762,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2019,3570.88159282488,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2018,3659.22924485198,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2017,3763.19404182465,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2016,3765.21799936242,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2015,3780.85027551891,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2014,3794.44720253102,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2013,3986.18505186393,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2012,3913.43920397127,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2011,3891.87175356307,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2010,4029.83085754355,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2009,3821.62500577239,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2008,4081.87998694017,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2007,4023.73935857078,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2006,4235.93876578004,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2005,4109.8805864045,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2004,4131.61083697,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2003,4096.47794323132,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2002,4108.61729515583,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2001,4210.00080103251,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Germany,DEU,2000,4094.27901518469,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2024,3184.7895085475,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2023,3136.12237461475,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2022,3100.1897815932,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2021,3469.83398574773,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2020,3228.48915727036,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2019,3605.53190025511,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2018,3669.37065950443,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2017,3705.41111644137,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2016,3718.17053401513,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2015,3799.19260526718,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2014,3755.83244171123,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2013,3925.86545930191,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2012,3929.20601557226,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2011,3951.00450412595,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2010,4040.43918739374,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2009,3938.38637955439,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2008,4137.71989985562,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2007,4142.17819118209,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2006,4214.29234630039,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2005,4313.6963002429,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2004,4327.20397302417,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2003,4296.5464931216,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2002,4220.32024855816,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2001,4240.43326978854,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),France,FRA,2000,4130.17270058081,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2024,2069.37917526374,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2023,2126.55279563942,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2022,2253.30282671333,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2021,2377.4766480833,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2020,2317.54743041471,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2019,2516.08673070511,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2018,2632.23008890609,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2017,2659.07639289685,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2016,2697.02109894886,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2015,2774.83945986659,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2014,2768.00471923628,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2013,2962.343786375,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2012,3028.77223348044,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2011,2973.83120573757,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2010,3235.05383786127,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2009,3144.00201324492,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2008,3370.1581117517,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2007,3443.58715993443,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2006,3601.05090812166,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2005,3689.55051742336,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2004,3697.50381825103,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2003,3764.06191688174,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2002,3716.62337347063,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2001,3785.6601241847,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United Kingdom,GBR,2000,3786.40281086309,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2024,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2023,763.197899394641,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2022,727.902200094024,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2021,676.814293488143,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2020,632.239828540427,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2019,666.977347524506,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2018,668.303370218852,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2017,648.014718317903,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2016,627.273531026365,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2015,622.339883988149,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2014,610.165371779455,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2013,577.254621645988,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2012,572.133085479526,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2011,546.675890208969,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2010,531.86706609011,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2009,509.446000134302,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2008,481.553027437162,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2007,461.201738250187,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2006,441.785886693878,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2005,425.369642526643,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2004,415.47995649887,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2003,399.699897139001,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2002,397.344252941148,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2001,393.38088619861,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),India,IND,2000,394.916803104241,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2024,3005.89902824379,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2023,3039.14126131753,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2022,3129.65861717499,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2021,3196.03970960845,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2020,3046.85480668859,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2019,3261.62024942915,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2018,3343.05412833973,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2017,3391.05041453219,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2016,3370.8877963853,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2015,3400.59271053608,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2014,3445.81632921551,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2013,3567.33780517627,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2012,3536.70253450885,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2011,3620.18019068219,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2010,3900.21212768124,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2009,3709.02326188514,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2008,3867.13557310575,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2007,4020.80546615948,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2006,4064.36044717698,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2005,4066.44200433533,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2004,4085.4919552124,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2003,3956.90048891144,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2002,3992.91998129661,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2001,3990.10602386433,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Japan,JPN,2000,4067.03534426909,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2024,5438.79036783753,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2023,5336.92485966157,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2022,5411.97477731382,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2021,5513.62830573477,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2020,5195.91011087811,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2019,5334.67385872126,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2018,5531.77957372505,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2017,5467.82224967457,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2016,5390.84042635905,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2015,5239.00345362778,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2014,5136.98533019492,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2013,5108.23633855207,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2012,5122.94213308196,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2011,5114.96282558864,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2010,4920.34159542887,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2009,4557.69756825002,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2008,4512.96932152779,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2007,4487.98132629667,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2006,4337.55103463972,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2005,4324.50929706891,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2004,4255.20021526328,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2003,4137.64649746404,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2002,4093.47640135718,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2001,3923.08094343002,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),"Korea, Rep.",KOR,2000,3952.36285253717,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2024,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2023,7148.58725115291,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2022,7525.25321185534,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2021,7467.02479068822,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2020,7172.00803547452,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2019,7669.39905417665,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2018,7650.76338796016,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2017,7707.05632967392,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2016,7521.58911581712,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2015,7786.91651664863,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2014,7959.81351652344,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2013,7401.17130265584,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2012,7862.42354103658,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2011,7979.3799657336,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2010,7965.26121862505,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2009,7125.05300494705,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2008,6980.05897029755,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2007,6696.94747279399,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2006,6605.44101687621,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2005,6447.07190249029,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2004,6375.54473048108,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2003,6631.81585672969,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2002,6826.99573187577,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2001,6348.58935367071,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Saudi Arabia,SAU,2000,6516.00755562211,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2024,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2023,5282.7637359991,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2022,5785.04367341681,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2021,5966.32763521289,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2020,5538.12371561154,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2019,5565.91519291042,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2018,5692.66564748734,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2017,5799.39529471808,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2016,5449.41985010808,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2015,5242.6504334371,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2014,4986.32779651842,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2013,5273.75292208676,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2012,4787.02308838074,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2011,4086.3260711538,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2010,4856.84920025022,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2009,5321.08304981114,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2008,4958.46248257993,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2007,4537.4171693226,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2006,5128.30865666219,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2005,4925.75757554205,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2004,7371.02793327917,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2003,6217.05880619521,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2002,5066.19603486754,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2001,5146.02323865296,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),Singapore,SGP,2000,4634.81368272521,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2025,,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2024,6361.4447017904,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2023,6364.46726343838,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2022,6512.09816744798,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2021,6445.82621225492,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2020,6141.5241450627,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2019,6700.93033990565,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2018,6738.27272433986,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2017,6590.83509745633,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2016,6663.4963294418,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2015,6789.64733291075,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2014,6915.64165280321,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2013,6888.38143742637,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2012,6820.46062064875,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2011,7009.64607964907,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2010,7162.55933024159,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2009,7053.35846690965,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2008,7484.83268900712,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2007,7756.0141894981,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2006,7694.40657948116,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2005,7843.3910574627,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2004,7878.53717143427,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2003,7791.30391526846,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2002,7840.46095949898,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2001,7824.24393877407,,,0
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),United States,USA,2000,8055.14548852416,,,0
