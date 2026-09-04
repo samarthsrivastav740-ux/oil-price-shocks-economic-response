@@ -238,6 +238,8 @@ Includes:
 
 This page establishes the oil-market context before examining economic outcomes.
 
+<img width="1278" height="722" alt="image" src="https://github.com/user-attachments/assets/d061442d-ffb4-4324-b025-f38ac40047ba" />
+
 
 ---
 
@@ -258,6 +260,7 @@ Includes:
 
 The timeline allows oil-price movements and economic indicators to be viewed across the same years.
 
+<img width="1277" height="720" alt="image" src="https://github.com/user-attachments/assets/a8822cb6-b4e8-4c75-a808-ddd391fd506e" />
 
 
 ---
@@ -271,6 +274,8 @@ Includes:
 * 📈 Average GDP growth during oil shocks
 * 📊 Average inflation during oil shocks
 * ⚡ Energy-import dependence
+
+<img width="1282" height="726" alt="image" src="https://github.com/user-attachments/assets/61670591-4e87-402c-9c18-0d58aa6c3b88" />
 
 
 ---
@@ -304,6 +309,8 @@ Higher energy-import dependence does not consistently correspond to weaker GDP g
 Across the selected countries, 2020 stands out as a period of sharp GDP-growth decline followed by a broad recovery.
 
 > ⚠️ These findings describe **observed historical patterns**. They should not be interpreted as evidence that oil-price movements caused the observed economic outcomes.
+
+<img width="1283" height="725" alt="image" src="https://github.com/user-attachments/assets/cfbcb1bf-99b2-4311-b9bd-69d7be109eab" />
 
 
 ---
